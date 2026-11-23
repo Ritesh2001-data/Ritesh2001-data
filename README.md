@@ -28,9 +28,14 @@ Turning raw data into clear, actionable business insights through structured dat
 ## Certifications
 
 - **Google Data Analytics Professional Certificate** — Coursera
-- - **Google Advanced Data Analytics Certificate** — Coursera
-     - - **Microsoft Power BI Data Analyst Professional Certificate** — Coursera
+- **Google Advanced Data Analytics Certificate** — Coursera
+- **Microsoft Power BI Data Analyst Professional Certificate** — Coursera
 - **Google Prompting Essentials Specialization** — Coursera
+
+ --- 
+  ## Connect With Me
+- **LinkedIn:** [www.linkedin.com/in/ritesh-sharma-data]
+- **Email:** [ritesh.sharma.data@gmail.com]
 
 
 ---
